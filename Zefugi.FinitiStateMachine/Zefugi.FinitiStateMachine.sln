@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zefugi.FinitiStateMachine", "Zefugi.FinitiStateMachine\Zefugi.FinitiStateMachine.csproj", "{15CE66BF-1E27-40A3-B8B8-C30A38E3ADA9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15CE66BF-1E27-40A3-B8B8-C30A38E3ADA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15CE66BF-1E27-40A3-B8B8-C30A38E3ADA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15CE66BF-1E27-40A3-B8B8-C30A38E3ADA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15CE66BF-1E27-40A3-B8B8-C30A38E3ADA9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB1476EF-AD17-4FA2-A289-2CB1C8D268FB}
+	EndGlobalSection
+EndGlobal
